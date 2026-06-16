@@ -1,13 +1,12 @@
 # 🔎 Port Scanner em Python
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
+   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Segurança-Cybersecurity-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Projeto-Estudo-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/daniell-sec/port-scanner-python?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/daniell-sec/port-scanner-python?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/daniell-sec/port-scanner-python?style=for-the-badge"/>
+  
+  
 </p>
 
 ---
